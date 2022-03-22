@@ -25,4 +25,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Julien Cortesi - [@serializers](https://twitter.com/serializers) - [julienc.net](https://www.julienc.net) - julien.cortesi@potonmail.com
+Julien Cortesi - [@serializers](https://twitter.com/serializers) - [julienc.net](https://www.julienc.net) - julien.cortesi@protonmail.com
